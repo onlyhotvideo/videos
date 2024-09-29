@@ -1,0 +1,84 @@
+/* Custom Css Start  */
+a {
+  text-decoration: none;
+  color: black;
+}
+
+/* Header Area Start  */
+.menu-wrapper {
+  background-color: black;
+  color: white;
+}
+.logo-area {
+  margin-top: 5px;
+}
+.logo-area a {
+  text-decoration: none;
+  margin-top: 10px;
+}
+.logo-area a h3 {
+  color: white;
+}
+.logo-area a h3 span {
+  color: red;
+}
+.menu-area {
+}
+.menu-wrapper ul {
+  list-style: none;
+}
+.menu-wrapper ul li {
+  display: inline-block;
+}
+.menu-wrapper ul li a {
+  display: block;
+  text-decoration: none;
+  font-size: 16px;
+  font-weight: 500;
+  color: white;
+  margin-left: 45px;
+  text-transform: uppercase;
+  margin-top: 10px;
+  transition: 0.3s;
+}
+ul li a:hover {
+  color: skyblue;
+}
+
+/* Footer Area Start  */
+.footer-area {
+}
+.top-footer {
+  background-color: #34495e;
+  margin-top: 50px;
+  padding: 15px;
+  border-bottom: 1px dashed #fff;
+}
+.text-section h5 {
+  color: white;
+}
+.text-section span {
+  color: red;
+}
+.bottom-footer {
+  background-color: #2c3e50;
+  padding: 10px;
+}
+.social-section a {
+  text-decoration: none;
+  font-size: 17px;
+  color: white;
+  font-weight: 500;
+  transition: 0.3s;
+}
+.social-section a:hover {
+  color: skyblue;
+  text-decoration: underline;
+}
+.social-section i {
+  color: skyblue;
+  margin-right: 5px;
+}
+.adrinolinks-video {
+  border: 2px dashed #eee;
+}
